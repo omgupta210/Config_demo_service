@@ -1,3 +1,6 @@
 server:
   application:
     name: config-server
+
+name:om
+test-env:dev
